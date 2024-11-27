@@ -153,4 +153,4 @@
 
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg) -->
