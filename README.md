@@ -130,7 +130,6 @@
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhampa/) 👨🏻‍💻 <br>
-  <!--⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>--!>
   ⦿ Shoot Me an <a href="mailto:shubhampandey985@gmail.com">E-mail</a> 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
